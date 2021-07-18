@@ -1,9 +1,9 @@
 [submodule "rtl/comp/sdram-fpga"]
 	path = rtl/comp/sdram-fpga
-	url = git@github.com:jakubcabal/sdram-fpga.git
+	url = https://github.com/orb1t-ua/sdram-tester-fpga/sdram-fpga.git
 [submodule "rtl/comp/ahb_lite_sdram"]
 	path = rtl/comp/ahb_lite_sdram
-	url = git@github.com:jakubcabal/ahb_lite_sdram.git
+	url = https://github.com/orb1t-ua/sdram-tester-fpga/ahb_lite_sdram.git
 [submodule "rtl/comp/uart"]
 	path = rtl/comp/uart
-	url = git@github.com:jakubcabal/uart-for-fpga.git
+	url = https://github.com/orb1t-ua/sdram-tester-fpga/uart-for-fpga.git
